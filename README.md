@@ -59,7 +59,7 @@ Para distribuir o tráfego, criei um Balanceador de Carga de Aplicação (**LabE
   ![alb target group](imagens/02-target-group.png)
   
   * **Health Checks:** Configurei verificações para garantir que o tráfego vá apenas para instâncias saudáveis.
-  * 
+
 -----
 
 ### 3. Definição do Modelo de Execução (Launch Template)
