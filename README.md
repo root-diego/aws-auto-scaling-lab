@@ -104,7 +104,7 @@ Para provar a elasticidade, realizei um teste de carga:
 
 1.  Acessei a ferramenta de "Load Test" da aplicação.
 
-1[aplicacao web 02](imagens/08-aplicacao-web-02.png)
+![aplicacao web 02](imagens/08-aplicacao-web-02.png)
 
 2.  Monitorei os alarmes do **CloudWatch** (`AlarmHigh` configurado para CPU \> 50%).
 
