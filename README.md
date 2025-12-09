@@ -19,15 +19,7 @@ Neste projeto, configurei uma infraestrutura capaz de escalar automaticamente (a
 
 ## 🛠️ Tecnologias Utilizadas
 
-\<div align="left"\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" width="60" height="60"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" width="60" height="60"/\>
-\</div\>
-
-  * **Amazon EC2**
-  * **Elastic Load Balancing (ELB)**
-  * **EC2 Auto Scaling**
-  * **Amazon CloudWatch**
+<div align="left"> <!-- AWS --> <img src="https://d1.awsstatic.com/webteam/architecture-icons/Arch_AWS-General_48.svg" width="60" height="60"/> <!-- EC2 --> <img src="https://d1.awsstatic.com/webteam/architecture-icons/Architecture-Service-Icons_48/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="60" height="60"/> <!-- ELB --> <img src="https://d1.awsstatic.com/webteam/architecture-icons/Architecture-Service-Icons_48/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="60" height="60"/> <!-- Auto Scaling --> <img src="https://d1.awsstatic.com/webteam/architecture-icons/Architecture-Service-Icons_48/Arch_Compute/48/Arch_AWS-Auto-Scaling_48.svg" width="60" height="60"/> <!-- CloudWatch --> <img src="https://d1.awsstatic.com/webteam/architecture-icons/Architecture-Service-Icons_48/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="60" height="60"/> <!-- Linux --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/> </div>
 
 -----
 
